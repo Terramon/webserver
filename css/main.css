@@ -137,12 +137,12 @@ a:hover {
 .topnav {
 	list-style-type: none;
     overflow: hidden;
-    background-color: #4EA5F8;
+    background-color: #6782DB;
     box-shadow: 0px 6px 13px -7px rgba(0,0,0,0.20);
     transition: all .2s ease-in;
     font-weight: 700;
     text-transform: uppercase;
-    background-color: #4EA5F8;
+    background-color: #6782DB;
 }
 
 .topnav a {
@@ -156,7 +156,7 @@ a:hover {
 }
 
 .topnav a:hover {
-    background-color: #4EA5F8;
+    background-color: #6782DB;
     color: white;
 }
 
@@ -645,8 +645,8 @@ footer {
 	max-width: 1280px;
 	margin: 0 auto;
 	float: none;
-	padding-top: 66px;
-	padding-bottom: 66px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 .copyright-notice {
