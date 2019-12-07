@@ -117,7 +117,7 @@ a:hover {
     z-index: 99;
     border: none;
     outline: none;
-    background-color: #e74c3c;
+    background-color: #7F9DF5;
     color: white;
     cursor: pointer;
     padding: 15px;
@@ -128,7 +128,7 @@ a:hover {
 }
 
 #myBtn:hover {
-    background-color: #c0392b;
+    background-color: #99B3FF;
     transition: all .2s ease-in;
 }
 
