@@ -137,12 +137,12 @@ a:hover {
 .topnav {
 	list-style-type: none;
     overflow: hidden;
-    background-color: #6782DB;
+    background-color: #39332E;
     box-shadow: 0px 6px 13px -7px rgba(0,0,0,0.20);
     transition: all .2s ease-in;
     font-weight: 700;
     text-transform: uppercase;
-    background-color: #6782DB;
+    background-color: #39332E;
 }
 
 .topnav a {
@@ -156,7 +156,7 @@ a:hover {
 }
 
 .topnav a:hover {
-    background-color: #6782DB;
+    background-color: #39332E;
     color: white;
 }
 
@@ -519,7 +519,7 @@ a:hover {
 }
 
 #head {
-	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/100603056096632551/635132DF725A977B6DB16702F351A8E61E1CB7C2/"); /* Change this to your own image */
+	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/100603056096756223/A82529897139504E4FA13D015ECBB9839DB1686E/"); /* Change this to your own image */
 	margin: 0;
 	padding: 100px 0px 100px 0px;
 	text-align: center;
@@ -527,7 +527,7 @@ a:hover {
 }
 
 #head-about {
-	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/100603056096632551/635132DF725A977B6DB16702F351A8E61E1CB7C2/"); /* Change this to your own image */
+	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/100603056096756223/A82529897139504E4FA13D015ECBB9839DB1686E/"); /* Change this to your own image */
 	margin: 0;
 	padding: 222px 0px 222px 0px;
 	text-align: center;
@@ -535,7 +535,7 @@ a:hover {
 }
 
 #head-gamemodes {
-	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/100603056096632551/635132DF725A977B6DB16702F351A8E61E1CB7C2/"); /* Change this to your own image */
+	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/100603056096756223/A82529897139504E4FA13D015ECBB9839DB1686E/"); /* Change this to your own image */
 	margin: 0;
 	padding: 222px 0px 222px 0px;
 	text-align: center;
@@ -543,7 +543,7 @@ a:hover {
 }
 
 #head-vote {
-	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/100603056096632551/635132DF725A977B6DB16702F351A8E61E1CB7C2/"); /* Change this to your own image */
+	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/100603056096756223/A82529897139504E4FA13D015ECBB9839DB1686E/"); /* Change this to your own image */
 	margin: 0;
 	padding: 222px 0px 222px 0px;
 	text-align: center;
@@ -551,7 +551,7 @@ a:hover {
 }
 
 #head-staff {
-	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/100603056096632551/635132DF725A977B6DB16702F351A8E61E1CB7C2/"); /* Change this to your own image */
+	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/100603056096756223/A82529897139504E4FA13D015ECBB9839DB1686E/"); /* Change this to your own image */
 	margin: 0;
 	padding: 222px 0px 222px 0px;
 	text-align: center;
@@ -559,7 +559,7 @@ a:hover {
 }
 
 #head-status {
-	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/100603056096632551/635132DF725A977B6DB16702F351A8E61E1CB7C2/"); /* Change this to your own image */
+	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/100603056096756223/A82529897139504E4FA13D015ECBB9839DB1686E/"); /* Change this to your own image */
 	margin: 0;
 	padding: 222px 0px 222px 0px;
 	text-align: center;
@@ -567,7 +567,7 @@ a:hover {
 }
 
 #head-store {
-	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/100603056096632551/635132DF725A977B6DB16702F351A8E61E1CB7C2/"); /* Change this to your own image */
+	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/100603056096756223/A82529897139504E4FA13D015ECBB9839DB1686E/"); /* Change this to your own image */
 	margin: 0;
 	padding: 222px 0px 222px 0px;
 	text-align: center;
@@ -575,7 +575,7 @@ a:hover {
 }
 
 #head-contact {
-	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/100603056096632551/635132DF725A977B6DB16702F351A8E61E1CB7C2/"); /* Change this to your own image */
+	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/100603056096756223/A82529897139504E4FA13D015ECBB9839DB1686E/"); /* Change this to your own image */
 	margin: 0;
 	padding: 222px 0px 222px 0px;
 	text-align: center;
@@ -583,7 +583,7 @@ a:hover {
 }
 
 #head-example {
-	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/100603056096632551/635132DF725A977B6DB16702F351A8E61E1CB7C2/"); /* Change this to your own image */
+	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/100603056096756223/A82529897139504E4FA13D015ECBB9839DB1686E/"); /* Change this to your own image */
 	margin: 0;
 	padding: 222px 0px 222px 0px;
 	text-align: center;
@@ -870,3 +870,4 @@ footer {
 	padding-top: 66px;
 	padding-bottom: 66px;
 }
+body {background-color: black;}
