@@ -702,14 +702,14 @@ footer {
 }
 
 #gamemodes .join-info {
-	background-color: #e74c3c;
+	background-color: #c0392b;
 	color: white;
 	padding: 17px 15px;
 }
 
 
-#gamemodes .big-col {
-	background-color: #e74c3c;
+#download .big-col {
+	background-color: #c0392b;
 	color: white;
 	padding: 17px 15px;
 }
