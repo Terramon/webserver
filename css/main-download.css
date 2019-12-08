@@ -41,13 +41,13 @@ p {font-size: 15px;}
 
 a {
 	text-decoration: none;
-	color: #3498db;
+	color: #8CA6F2;
 	transition: all .2s ease-in;
 }
 
 a:hover {
 	text-decoration: none;
-	color: #1670aa;
+	color: #8CA6F2;
 	transition: all .2s ease-in;
 }
 
